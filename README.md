@@ -3,11 +3,13 @@
 
 This repository contains a C++ implementation of an LRU (Least Recently Used) cache system. The system incorporates three different data structures for caching:
 
-Linked List (LRU_LL): A linked list implementation for caching with basic operations such as Get, Put, Remove, and Display.
+<br>
 
-Binary Search Tree (LRU_BST): A binary search tree implementation for caching with features like Insert, Delete, Search, and Display.
+Linked List (LRU_LL) : A linked list implementation for caching with basic operations such as Get, Put, Remove, and Display.
 
-Hash Map (LRU_HM): An implementation using a hash map for caching with capabilities like Insert, Search, Remove, and Display.
+Binary Search Tree (LRU_BST) : A binary search tree implementation for caching with features like Insert, Delete, Search, and Display.
+
+Hash Map (LRU_HM) : An implementation using a hash map for caching with capabilities like Insert, Search, Remove, and Display.
 
 <br>
 
